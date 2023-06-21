@@ -19,3 +19,5 @@
 [submodule "tinygrad"]
   path = tinygrad_repo
   url = https://github.com/geohot/tinygrad.git
+[submodule "DbConnector"]
+	branch = stable
